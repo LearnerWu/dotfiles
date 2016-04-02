@@ -1,0 +1,23 @@
+"*":
+  autosave:
+    enabled: true
+  "autoupdate-packages":
+    lastUpdateTimestamp: 1459596817988
+  core: {}
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "a44c943f-1a45-506f-f0ec-2388b6b8dcd6"
+  minimap:
+    plugins:
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+      selection: true
+      selectionDecorationsZIndex: 0
+  "vim-mode": {}
+  welcome:
+    showOnStartup: false

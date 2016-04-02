@@ -738,6 +738,13 @@ defaults write com.google.Chrome.canary PMPrintingExpandedStateForPrint2 -bool t
 cp -r init/Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text*/Packages/User/Preferences.sublime-settings 2> /dev/null
 
 ###############################################################################
+# Atom                                                                #
+###############################################################################
+
+# Install Atom settings
+cp -r init/config.cson ~/.atom
+
+###############################################################################
 # Transmission.app                                                            #
 ###############################################################################
 
