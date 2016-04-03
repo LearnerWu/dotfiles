@@ -101,5 +101,19 @@ brew install tree
 brew install webkit2png
 brew install zopfli
 
+# Install some tools
+brew install autojump
+brew install mysql
+brew install openssl
+brew install Caskroom/cask/cheatsheet
+brew install Caskroom/cask/iterm
+brew install Caskroom/cask/google-chrome
+brew install Caskroom/cask/wireshark
+brew install Caskroom/cask/gitbook
+brew install Caskroom/cask/onyx
+brew install Caskroom/cask/atom
+brew install Caskroom/cask/virtualbox
+brew install Caskroom/cask/docker
+
 # Remove outdated versions from the cellar.
 brew cleanup
