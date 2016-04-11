@@ -38,8 +38,8 @@ brew install wget --with-iri
 # Install RingoJS and Narwhal.
 # Note that the order in which these are installed is important;
 # see http://git.io/brew-narwhal-ringo.
-brew install ringojs
-brew install narwhal
+# brew install ringojs
+# brew install narwhal
 
 # Install more recent versions of some OS X tools.
 brew install vim --override-system-vi
@@ -81,30 +81,15 @@ brew install woff2
 # brew install xz
 
 # Install other useful binaries.
-brew install ack
-brew install dark-mode
+# brew install ack
+# brew install dark-mode
 #brew install exiv2
 brew install git
-brew install git-lfs
-brew install imagemagick --with-webp
-brew install lua
-brew install lynx
-brew install p7zip
-brew install pigz
-brew install pv
-brew install rename
-brew install rhino
-brew install speedtest_cli
-brew install ssh-copy-id
-brew install testssl
-brew install tree
-brew install webkit2png
-brew install zopfli
 
 # Install some tools
 brew install autojump
 brew install mysql
-brew install openssl
+brew install phantomjs
 brew install Caskroom/cask/cheatsheet
 brew install Caskroom/cask/iterm
 brew install Caskroom/cask/google-chrome
