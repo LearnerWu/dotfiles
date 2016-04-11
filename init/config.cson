@@ -1,23 +1,71 @@
 "*":
+  "atom-beautify":
+    _analyticsUserId: "23edbd25-0366-4129-800d-108f8c8e65e4"
+    js_space_after_anon_function: true
+    js_space_before_conditional: false
+    language_js_default_beautifier: "Pretty Diff"
+    language_json_default_beautifier: "Pretty Diff"
+  "atom-ternjs":
+    useSnippetsAndFunction: true
+  atomatigit: {}
+  "autocomplete-plus": {}
   autosave:
     enabled: true
   "autoupdate-packages":
-    lastUpdateTimestamp: 1459596817988
-  core: {}
+    lastUpdateTimestamp: 1460365990243
+  core:
+    disabledPackages: [
+      "linter-jscs"
+      "standard-formatter"
+      "linter-js-standard"
+      "atom-beautify"
+      "vim-surround"
+      "vim-mode"
+      "ex-mode"
+      "vim-mode-plus-ex-mode"
+    ]
   editor:
     invisibles: {}
+  emmet: {}
+  "emmet-simplified": {}
   "exception-reporting":
-    userId: "a44c943f-1a45-506f-f0ec-2388b6b8dcd6"
+    userId: "9523bd4a-bad3-2cbd-1a9c-235700b48f11"
+  "git-blame": {}
+  "git-plus": {}
+  "git-projects":
+    rootPath: "/Users/bitecode/projects/"
+  "go-plus": {}
+  "highlight-line":
+    enableBackgroundColor: false
+  "language-babel": {}
+  linter:
+    showErrorPanel: false
+  "linter-eslint": {}
+  "linter-js-standard":
+    lintMarkdownFiles: true
+    showEslintRules: true
+  "linter-jscs": {}
   minimap:
     plugins:
-      "find-and-replace": true
-      "find-and-replaceDecorationsZIndex": 0
       "git-diff": true
       "git-diffDecorationsZIndex": 0
-      pigments: true
-      pigmentsDecorationsZIndex: 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
       selection: true
       selectionDecorationsZIndex: 0
+  react: {}
+  "standard-formatter":
+    formatOnSave: true
+  tabs:
+    enableVcsColoring: true
+    tabScrolling: true
+    usePreviewTabs: true
+  term2: {}
+  term3: {}
   "vim-mode": {}
+  "vim-mode-plus":
+    startInInsertMode: true
+  "vim-mode-plus-jasmine-increase-focus": {}
+  "vim-surround": {}
   welcome:
     showOnStartup: false
