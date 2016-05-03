@@ -89,6 +89,7 @@ brew install git
 # Install some tools
 brew install autojump
 brew install mysql
+brew install glib
 brew install phantomjs
 brew install Caskroom/cask/cheatsheet
 brew install Caskroom/cask/iterm
